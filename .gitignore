@@ -1,0 +1,8 @@
+# Ignore dynamic Pipfile.lock file
+Pipfile.lock
+
+# Ignore MacOS custom attributes file
+.DS_Store
+
+# Ignore IDE-related metadata folder
+.idea/
