@@ -6,3 +6,6 @@ Pipfile.lock
 
 # Ignore IDE-related metadata folder
 .idea/
+
+# Ignore pyenv local python configuration
+.python-version
